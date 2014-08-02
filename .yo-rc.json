@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Future Insights 2014",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "chrisjlee",
+    "githubRepository": "futureinsights2014"
+  }
+}
