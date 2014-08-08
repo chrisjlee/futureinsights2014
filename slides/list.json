@@ -39,7 +39,24 @@
             "data-background": "#4d7e65"
         }
     },
-    "keynote.html",
+    {
+        "filename": "keynote.html",
+        "attr": {
+            "data-background": "images/aaron-patterson.jpg"
+        }
+    },
+    {
+        "filename": "who-is-aaron.html",
+        "attr": {
+            "data-background": "#077777"
+        }
+    },
+    {
+      "filename":"aaron-is.html",
+        "attr": {
+          "data-background": "#ae2c26"
+        }
+    },
     {
         "filename": "spa.html"
     },
