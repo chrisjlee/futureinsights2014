@@ -39,13 +39,15 @@
             "data-background": "#4d7e65"
         }
     },
+    "keynote.html"
     {
-      "filename": "what-is-ember.html"
+        "filename": "spa.html"
     },
     {
-        "filename": "spa.html",
-        "attr": {}
+        "filename": "what-is-ember.html"
     },
     "vooza-on-hiring.html",
-    "colophon.html"
+    "colophon.html",
+    "what-is-vooza.html",
+    "voozas-founder-philosophy.html",
 ]
