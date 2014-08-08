@@ -1,10 +1,8 @@
 [
-    "index.md",
     {
-        "filename": "future-of-web-applications.md",
+        "filename": "index.md",
         "attr": {
-            "data-background": "images/fi.png",
-            "backgroundTransition": "slide"
+            "data-background": "#007777"
         }
     },
     {
@@ -22,14 +20,32 @@
         }
     },
     {
-        "filename": "burgers.html",
+        "filename": "lights.html",
         "attr": {
-            "data-background": "images/burgers.jpg",
+            "data-background": "images/casinos.jpg",
+            "data-transition": "slide"
+        }
+    },
+    {
+        "filename": "future-of-web-applications.md",
+        "attr": {
+            "data-background": "images/future.jpg",
             "backgroundTransition": "slide"
         }
-    }
+    },
+    {
+        "filename": "where-do-you-see-applications-going.html",
+        "attr": {
+            "data-background": "#4d7e65"
+        }
+    },
+    {
+      "filename": "what-is-ember.html"
+    },
+    {
+        "filename": "spa.html",
+        "attr": {}
+    },
+    "vooza-on-hiring.html",
+    "colophon.html"
 ]
-
-
-// <iframe src="http://fast.wistia.net/embed/iframe/1mukig3upo?playerColor=bb6b29&version=v1&videoHeight=315&videoWidth=560&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" width="1120" height="730"></iframe>
-
