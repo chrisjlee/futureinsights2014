@@ -1,2 +1,1 @@
-## Future of Web Applications
-
+## What is the future of Web Applications ?

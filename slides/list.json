@@ -1,4 +1,35 @@
 [
     "index.md",
-    "future-of-web-applications.md"
+    {
+        "filename": "future-of-web-applications.md",
+        "attr": {
+            "data-background": "images/fi.png",
+            "backgroundTransition": "slide"
+        }
+    },
+    {
+        "filename": "las-vegas.html",
+        "attr": {
+            "data-background": "images/las-vegas.jpg",
+            "backgroundTransition": "slide"
+        }
+    },
+    {
+        "filename": "land-of-excess.html",
+        "attr": {
+            "data-background": "images/excess.jpg",
+            "backgroundTransition": "slide"
+        }
+    },
+    {
+        "filename": "burgers.html",
+        "attr": {
+            "data-background": "images/burgers.jpg",
+            "backgroundTransition": "slide"
+        }
+    }
 ]
+
+
+// <iframe src="http://fast.wistia.net/embed/iframe/1mukig3upo?playerColor=bb6b29&version=v1&videoHeight=315&videoWidth=560&volumeControl=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" width="1120" height="730"></iframe>
+
