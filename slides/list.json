@@ -39,7 +39,7 @@
             "data-background": "#4d7e65"
         }
     },
-    "keynote.html"
+    "keynote.html",
     {
         "filename": "spa.html"
     },
@@ -49,5 +49,5 @@
     "vooza-on-hiring.html",
     "colophon.html",
     "what-is-vooza.html",
-    "voozas-founder-philosophy.html",
+    "voozas-founder-philosophy.html"
 ]
