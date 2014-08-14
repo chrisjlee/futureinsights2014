@@ -52,10 +52,22 @@
         }
     },
     {
-      "filename":"lessons.html"
+      "filename":"future-of-ruby.html",
+      "attr": {
+        "data-background": "#981a21"
+      }
     },
     {
-        "filename": "spa.html"
+        "filename": "concurrency.html",
+        "attr": {
+          "data-background": "images/concurrency.jpg"
+        }
+    },
+    {
+        "filename": "future-of-js.html"
+    },
+    {
+        "filename": "jesse-cravens.html"
     },
     {
         "filename": "what-is-ember.html"
