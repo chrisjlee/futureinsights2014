@@ -1,6 +1,12 @@
 <h2>Creating a Ember Model</h2>
 
-<pre><code>App.Hero = DS.Model.extend({
-  name: 'string',
-  human: 'boolean'
+<pre><code>
+  App.Hero = DS.Model.Extend();
+
+
+  var attr = DS.attr;
+
+  App.Hero = DS.Model.extend({
+  name: attr('string'),
+  human: attr('boolean', {defaultValue: false}),
 });</pre></code>
