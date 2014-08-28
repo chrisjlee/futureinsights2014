@@ -1,3 +1,7 @@
 <h2>Accessing a model</h2>
 
-<pre><code>DS.Store.find('name', 1);</code></pre>
+<pre><code>App.IndexRoute = Ember.Route.extend({
+  model: function() {
+    return this.store.find('hero', 1);
+  }
+});</code></pre>
