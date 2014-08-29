@@ -85,7 +85,13 @@
         "filename": "creating-ember-models.html"
     },
     {
+        "filename": "ember-fixtures.html"
+    },
+    {
         "filename": "ember-accessing-models.html"
+    },
+    {
+        "filename": "ember-routes.html"
     },
     "vooza-on-hiring.html",
     "colophon.html",

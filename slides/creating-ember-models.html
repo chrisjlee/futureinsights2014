@@ -1,12 +1,19 @@
 <h2>Creating a Ember Model</h2>
 
+<p>In the head...</p>
+<pre><code>
+  <script type="text/javascript" src="ember.js"></script>
+  <script type="text/javascript" src="ember-data.js"></script></code>
+</pre>
+
+<strong>app.js</strong>
 <pre><code>
   App.Hero = DS.Model.Extend();
-
 
   var attr = DS.attr;
 
   App.Hero = DS.Model.extend({
+  id: attr(),
   name: attr('string'),
-  human: attr('boolean', {defaultValue: false}),
+  fly: attr('boolean', {defaultValue: false}),
 });</pre></code>
