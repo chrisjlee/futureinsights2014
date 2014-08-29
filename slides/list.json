@@ -82,6 +82,9 @@
         "filename": "first-ember-app.html"
     },
     {
+        "filename": "ember-objects.html"
+    },
+    {
         "filename": "creating-ember-models.html"
     },
     {
