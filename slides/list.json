@@ -88,6 +88,9 @@
         "filename": "ember-objects.html"
     },
     {
+        "filename": "ember-object-controller-model.html"
+    },
+    {
         "filename": "creating-ember-models.html"
     },
     {
